@@ -1,0 +1,21 @@
+2012-07-19  Phil Budne <phil@ultimate.com>
+	jsonpath.py: give up on = to == translation
+		reported by Ahmed El-Hassany <ahassany@umail.iu.edu>
+		upped version to 0.54
+
+2011-09-13  Phil Budne <phil@ultimate.com>
+	jsonpath.py: add use_eval argument
+	upped version to 0.53
+
+2011-05-04  Phil Budne <phil@ultimate.com>
+	setup.py: add .tar to url_path
+	jsonpath.py: upped version to 0.52.1
+
+2009-07-19  Phil Budne <phil@ultimate.com>
+	setup.py add #name to url
+
+2009-07-05  Phil Budne <phil@ultimate.com>
+	jsonpath.py: add __version__
+	setup.py: use __doc__ to create [long_]descr, use __version__
+	created CHANGELOG
+	upped version to 0.52
